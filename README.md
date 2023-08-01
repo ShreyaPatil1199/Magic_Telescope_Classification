@@ -4,3 +4,5 @@ Welcome to the MAGIC Gamma Telescope project! 🌌 The mission is to classify ga
 Classifying Gamma and Hadron rays is of paramount importance in unravelling the mysteries of the universe, and the valuable MAGIC Telescope dataset aids us in achieving this goal. To accomplish this task, various machine learning techniques are employed, including Logistic Regression, Decision Tree, Random Forest, and Ensemble Techniques, to predict and differentiate between these high-energy particles.
 
 The ultimate aim is to create a reliable and accurate prediction model that effectively classifies Gamma and Hadron rays. 🚀 #Astrophysics #MachineLearning
+
+Citation: Bock,R.. (2007). MAGIC Gamma Telescope. UCI Machine Learning Repository. https://doi.org/10.24432/C52C8B.
